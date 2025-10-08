@@ -1,0 +1,7 @@
+project_id = "hwlpgnrrudnygxiyepxc"
+
+[functions.generate-recipes]
+verify_jwt = false
+
+[functions.identify-ingredients]
+verify_jwt = false
